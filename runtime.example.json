@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "tool_root": "C:/path/to/local-depth-reference",
+  "runtime": {
+    "vda_python": "C:/path/to/vda-env/Scripts/python.exe",
+    "vda_repo": "C:/path/to/Video-Depth-Anything",
+    "vda_checkpoint": "C:/path/to/video_depth_anything_vits.pth",
+    "matting_python": "C:/path/to/matting-env/Scripts/python.exe",
+    "sam3_module_root": "C:/path/to/comfyui-sam3/nodes",
+    "sam3_checkpoint": "C:/path/to/sam3.pt",
+    "matanyone_root": "C:/path/to/MatAnyone2",
+    "matanyone_checkpoint": "C:/path/to/matanyone2.pth",
+    "matanyone_pydeps": "C:/path/to/optional/pydeps",
+    "ffmpeg": "ffmpeg",
+    "ffprobe": "ffprobe"
+  }
+}

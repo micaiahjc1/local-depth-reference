@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender and AE Depth"
+  short_description: "Local depth for Blender alignment and AE effects"
+  default_prompt: "Use $blender-depth-reference to generate local depth for my named shot and deliver a manual Blender reference, AE depth maps, or both as requested."
